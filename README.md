@@ -28,8 +28,8 @@ Ce repository contient toutes les ressources du workshop Git & GitHub organisé 
 
 Les enregistrements du workshop sont disponibles sur YouTube :
 
-- **[Partie 1 : Fondamentaux de Git](LIEN_YOUTUBE_PART1)** (1h30)
-- **[Partie 2 : Branches & Collaboration](LIEN_YOUTUBE_PART2)** (1h30)
+- **[Partie 1 : Fondamentaux de Git](https://www.youtube.com/watch?v=cGyc_wv-ekA&list=PLgRq1CGMNk8ewaJnvThcp92FkqLx5CeGO&index=1&t=790s)** (1h30)
+- **[Partie 2 : Branches & Collaboration](https://www.youtube.com/watch?v=7Y_1wsviHuU&list=PLgRq1CGMNk8ewaJnvThcp92FkqLx5CeGO&index=2)** (1h30)
 
 ## Documentation
 
