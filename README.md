@@ -5,7 +5,9 @@
 [![Level](https://img.shields.io/badge/Level-Beginner-yellow)](.)
 [![Language](https://img.shields.io/badge/Language-Français-red)](.)
 
-> Apprenez Git et GitHub de zéro à héro en 3 heures. Workshop complet avec exercices pratiques et collaboration en temps réel.
+> **Note:** This repository is in French. The workshop was conducted in French for French-speaking developers in Africa. English translation may be available in the future.
+
+Apprenez Git et GitHub de zéro à héro en 3 heures. Workshop complet avec exercices pratiques et collaboration en temps réel.
 
 ## À Propos
 
