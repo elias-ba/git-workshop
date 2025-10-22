@@ -69,7 +69,7 @@ git push origin add-votre-nom
 - [Mark Landers](https://github.com/marklanders01) - Inspiration
 
 <!-- Ajoutez votre nom ci-dessous -->
-
+-[Omar Diop](https://github.com/omar-034) -Dakar, Senegal
 ---
 
 ## Contributeurs
